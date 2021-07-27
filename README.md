@@ -19,4 +19,9 @@ Here are some ideas to get you started:
     alt="Most used Languages"
     vlign="center"
     align="center" />
+    <img 
+   src="https://github-readme-stats.vercel.app/api?username=Juanes3312&count_private=true&show_icons=true&theme=graywhite&hide_rank=false&hide_border=true&hide_title=true" 
+   alt="GitHub Stats"
+   vlign="center"
+   align="center" />
 
