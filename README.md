@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## I'm an junior developer attempt 
 
 <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanesjara&hide=html,coffeescript,vue,css,scss, python,php,pug,haml,plpgsql,tsql,smarty&count_private=true&theme=graywhite&layout=compact&custom_title=My%20Most%20used%20Languages:&hide_border=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juanesjara&hide=html,coffeescript,vue,css,scss,python,php,pug,haml,plpgsql,tsql,smarty&count_private=true&theme=graywhite&layout=compact&custom_title=My%20Most%20used%20Languages:&hide_border=true" 
     alt="Most used Languages"
     vlign="center"
     align="center" />
